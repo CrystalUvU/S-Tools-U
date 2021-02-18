@@ -9,5 +9,5 @@ apt install python
 apt install openssh
 echo '[+] Installed!'
 echo '[!]'
-echo '[+] Open Ofiles'
+
 ls
